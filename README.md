@@ -1,4 +1,6 @@
-#Portfolio App
+Portfolio App
+
+
 A full-stack portfolio application built with a Flutter frontend and a Django REST Framework backend. The app allows users to showcase their skills, projects, and blog posts, with features for user authentication, commenting, and profile management. The frontend is a responsive Flutter app, and the backend provides a RESTful API with JWT authentication.
 Table of Contents
 
